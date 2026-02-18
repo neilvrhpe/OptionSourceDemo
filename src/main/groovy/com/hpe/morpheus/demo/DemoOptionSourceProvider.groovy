@@ -34,12 +34,12 @@ class DemoOptionSourceProvider extends AbstractOptionSourceProvider {
 
     @Override
     String getCode() {
-        return 'coordinates'
+        return 'zipCodes'
     }
 
     @Override
     String getName() {
-        return "Coordinates"
+        return "ZipCodes"
     }
 
     def listZipCodes(args) {
