@@ -27,10 +27,7 @@ class OptionSourceDemoPlugin extends Plugin {
     @Override
     void initialize() {
         this.setName("Option Source Demo")
-
-        this.registerProvider(new DemoDatasetProvider(this,this.morpheus))
         this.registerProvider(new DemoOptionSourceProvider(this,this.morpheus))
-
     }
 
     /**
