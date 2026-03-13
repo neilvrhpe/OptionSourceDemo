@@ -1,15 +1,15 @@
 {
     "countries": [
         {
-            "id": 1,
+            "value": 1,
             "name": "United States"
         },
         {
-            "id": 2,
+            "value": 2,
             "name": "Canada"
         },
         {
-            "id": 3,
+            "value": 3,
             "name": "Australia"
         }
     ],
@@ -17,77 +17,77 @@
         {
             "id": 1,
             "name": "California",
-            "countryId": 1
+            "countryValue": 1
         },
         {
             "id": 2,
             "name": "Texas",
-            "countryId": 1
+            "countryValue": 1
         },
         {
             "id": 3,
             "name": "Florida",
-            "countryId": 1
+            "countryValue": 1
         },
         {
             "id": 4,
             "name": "New York",
-            "countryId": 1
+            "countryValue": 1
         },
         {
             "id": 5,
             "name": "Pennsylvania",
-            "countryId": 1
+            "countryValue": 1
         },
         {
             "id": 6,
             "name": "Ontario",
-            "countryId": 2
+            "countryValue": 2
         },
         {
             "id": 7,
             "name": "Quebec",
-            "countryId": 2
+            "countryValue": 2
         },
         {
             "id": 8,
             "name": "British Columbia",
-            "countryId": 2
+            "countryValue": 2
         },
         {
             "id": 9,
             "name": "Alberta",
-            "countryId": 2
+            "countryValue": 2
         },
         {
             "id": 10,
             "name": "Manitoba",
-            "countryId": 2
+            "countryValue": 2
         },
         {
             "id": 11,
             "name": "New South Wales",
-            "countryId": 3
+            "countryValue": 3
         },
         {
             "id": 12,
             "name": "Victoria",
-            "countryId": 3
+            "countryValue": 3
         },
         {
             "id": 13,
             "name": "Queensland",
-            "countryId": 3
+            "countryValue": 3
         },
         {
             "id": 14,
             "name": "Western Australia",
-            "countryId": 3
+            "countryValue": 3
         },
         {
             "id": 15,
             "name": "South Australia",
-            "countryId": 3
+            "countryValue": 3
         }
     ],
     "cities": [
@@ -237,4 +237,5 @@
             "stateId": 15
         }
     ]
+
 }
