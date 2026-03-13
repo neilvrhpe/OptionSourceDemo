@@ -2,18 +2,18 @@
     "countries": [
         {
             "value": 1,
-            "name": "United States"
-            "id": 1,
+            "name": "United States",
+            "id": 1
         },
         {
             "value": 2,
-            "name": "Canada"
-            "id": 2,
+            "name": "Canada",
+            "id": 2
         },
         {
             "value": 3,
-            "name": "Australia"
-            "id": 3,
+            "name": "Australia",
+            "id": 3
         }
     ],
     "states": [
@@ -242,4 +242,5 @@
     ]
 
 }
+
 
